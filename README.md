@@ -57,4 +57,13 @@ Graphs between episode and rewards and episode and steps were plotted.
 ![image](https://user-images.githubusercontent.com/102024497/229157434-88d5b5fa-f309-4210-8d62-f7d748d993f8.png)
 
 
+## Frozen Lake
 
+The agent controls the movement of a character in a grid world. Some tiles of the grid are walkable, and others lead to the agent falling into the water. Additionally, the movement direction of the agent is uncertain and only partially depends on the chosen direction. The agent is rewarded for finding a walkable path to a goal tile.
+
+![image](https://user-images.githubusercontent.com/102024497/229158867-e4a7485e-be5c-4378-be57-3c9cf3aac393.png)
+
+#### GYM
+Gym is a toolkit for developing and comparing reinforcement learning algorithms. It makes no assumptions about the structure of your agent, and is compatible with any numerical computation library, such as TensorFlow or Theano.
+
+The gym library is a collection of test problems — environments — that you can use to work out your reinforcement learning algorithms. These environments have a shared interface, allowing you to write general algorithms.
