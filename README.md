@@ -1,5 +1,5 @@
 # Implementation_Of_RL_Algorithms
-Gym-minigrid Implementation
+## Gym-minigrid Implementation
 Training an agent using RL tabular methods, namely TD learning on gym-minigrid
 
 gym-minigrid - https://github.com/maximecb/gym-minigrid
@@ -15,54 +15,47 @@ The agent was trained on 4 environments:
 6x6 Empty room
 8x8 Empty room
 Four Rooms
-Resuts:
+## Resuts:
 Graphs between episode and rewards and episode and steps were plotted.
 
-Sarsa0:
+## Sarsa0:
 5x5 Empty room
-
-sarsa0_5x5
+![image](https://user-images.githubusercontent.com/102024497/229156002-c9e1a276-8736-44c6-a0f2-f86365b0c7d0.png)
 
 6x6 Empty room
-
-sarsa0_6x6
+![image](https://user-images.githubusercontent.com/102024497/229156430-f2ca996c-6134-4964-8912-48fba7a02df8.png)
 
 8x8 Empty room
+![image](https://user-images.githubusercontent.com/102024497/229156467-1efb1a00-ac7e-49aa-a5c1-8a1f2f03b774.png)
 
-sarsa0_8x8
-
-Sarsa-lambda
+## Sarsa-lambda
 5x5 Empty room
-
-sarsa_lambda_5x5
+![image](https://user-images.githubusercontent.com/102024497/229156925-a313c76d-169b-4ad5-a91c-c3263b1911f5.png)
 
 6x6 Empty room
-
-sarsa_lambda_6x6
+![image](https://user-images.githubusercontent.com/102024497/229156987-48575ef2-7de3-4a74-bf5c-8f789deb9ca3.png)
 
 8x8 Empty room
+![image](https://user-images.githubusercontent.com/102024497/229157043-6f9a9019-e3ca-449f-ae66-1cde5bb1ae34.png)
 
-sarsa_lambda_8x8
-
-Four Rooms
+## Four Rooms
 
 For alpha = 0.1
-
-room4_sarsa_lambda
+![image](https://user-images.githubusercontent.com/102024497/229157102-f2fc23be-6dd9-418c-a102-878c5708b7d7.png)
 
 Comparing different alpha:
+![image](https://user-images.githubusercontent.com/102024497/229157179-577296c8-5429-4b7e-ab91-72c112d561e3.png)
 
-4roomdiffalpha
 
 Q-Learning:
 5x5 Empty room
-
-5x5_qlearning
+![image](https://user-images.githubusercontent.com/102024497/229157317-835aabbf-85b9-4514-8e2f-95f2fa180018.png)
 
 6x6 Empty room
-
-6x6_qlearning
+![image](https://user-images.githubusercontent.com/102024497/229157372-435bde34-ee70-4dbf-95b4-da48c2bc9668.png)
 
 8x8 Empty room
+![image](https://user-images.githubusercontent.com/102024497/229157434-88d5b5fa-f309-4210-8d62-f7d748d993f8.png)
 
-8x8_qlearning
+
+
