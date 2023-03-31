@@ -39,15 +39,13 @@ Graphs between episode and rewards and episode and steps were plotted.
 ![image](https://user-images.githubusercontent.com/102024497/229157043-6f9a9019-e3ca-449f-ae66-1cde5bb1ae34.png)
 
 ## Four Rooms
-
 For alpha = 0.1
 ![image](https://user-images.githubusercontent.com/102024497/229157102-f2fc23be-6dd9-418c-a102-878c5708b7d7.png)
 
 Comparing different alpha:
 ![image](https://user-images.githubusercontent.com/102024497/229157179-577296c8-5429-4b7e-ab91-72c112d561e3.png)
 
-
-Q-Learning:
+## Q-Learning:
 5x5 Empty room
 ![image](https://user-images.githubusercontent.com/102024497/229157317-835aabbf-85b9-4514-8e2f-95f2fa180018.png)
 
